@@ -11,6 +11,7 @@ Python Walkthrough
 # Project Links:
 - Dataset: https://github.com/srushtiganesh/YoungAdultsBankingPreferences/blob/main/TF02_Srushti_cleaned.xlsx
 - Tableau Dashboard: https://github.com/srushtiganesh/YoungAdultsBankingPreferences/blob/main/TF02_Srushti_final%20(3).twbx
+- Python: https://colab.research.google.com/drive/1FznhgG6VH9epd0Ux4ir8xBEwkk3HBieU?usp=sharing
 
 # Tableau Walkthrough:
 - Our group analysed the survey cleaned survey results to first extract the key areas of concerns, trends and opinions of young adults.
