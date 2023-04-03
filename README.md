@@ -25,6 +25,7 @@ Problem Statement:
 
 
 # Python Walkthrough
+- python link: https://colab.research.google.com/drive/1FznhgG6VH9epd0Ux4ir8xBEwkk3HBieU?usp=sharing
 1. Data Transformation:
 <img width="902" alt="image" src="https://user-images.githubusercontent.com/129648107/229444802-e19c0be5-f168-42e4-93ea-894fd43d6196.png">
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/129648107/229444702-fc5839d7-d793-44b3-b06d-e25dc641c893.png">
