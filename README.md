@@ -4,9 +4,9 @@
 Problem Statement:
 •	Based on the emerging trends / areas of concern for Young Adults (17-24 years old) - how could UOB build on these to better understand what the Young Adults (17-24 years old) are interested in, to capture their mind-share and market share?
 
-# Content Page
-Tableau Walkthrough
-Python Walkthrough
+## Table of Contents
+- [Tableau Walkthrough](#Tableau Walkthrough)
+- [Python Walkthrough](#Python Walkthrough)
 
 # Project Links:
 - Dataset: https://github.com/srushtiganesh/YoungAdultsBankingPreferences/blob/main/TF02_Srushti_cleaned.xlsx
