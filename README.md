@@ -1,8 +1,6 @@
-# TableauWorkbooks
 
-This a repositary of my Tableau workbooks, displaying all the projects I have taken on for Tableau.
 
-# 1: Banking Preferences
+# Project: Banking Preferences
 Problem Statement:
 •	Based on the emerging trends / areas of concern for Young Adults (17-24 years old) - how could UOB build on these to better understand what the Young Adults (17-24 years old) are interested in, to capture their mind-share and market share?
 
